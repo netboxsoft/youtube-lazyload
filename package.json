@@ -1,0 +1,16 @@
+{
+  "name": "youtube-lazyload",
+  "version": "1.0.0",
+  "description": "Lazy loader for YouTube embed player. Load player after user click.",
+  "main": "src/youtube-lazyload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "netbox",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-minify": "^3.1.0"
+  }
+}
